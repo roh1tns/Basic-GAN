@@ -1,2 +1,2 @@
 # Basic-GAN
-A basic GAN using PyTorch
+A basic GAN that generates handwritten numbers using PyTorch. Trained with MNIST dataset,
